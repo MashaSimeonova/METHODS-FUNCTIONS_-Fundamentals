@@ -13,5 +13,8 @@ namespace METHODS_FUNCTIONS_Fundamentals
         {
             PrintSomething("Bay Ivan");
         }
+        static void ComeOn()
+        { 
+        }
     }
 }
